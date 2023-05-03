@@ -9,6 +9,10 @@ public class s2 {
 		System.out.println("how are you");
 		System.out.println("how are you");
 
+		System.out.println("how are you");
+		System.out.println("how are you");
+		System.out.println("how are you");
+
 	}
 
 }
